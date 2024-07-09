@@ -1,3 +1,3 @@
 # sameepayat-demo
 This is my first git repository 
-<br>by sameep shakya
+<br>by sameep shakya(ayat digital)
